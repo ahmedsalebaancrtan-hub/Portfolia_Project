@@ -1,6 +1,5 @@
 import {createBrowserRouter} from 'react-router-dom'
 import MainPage from './pages'
-import Home from './pages/Home'
 import About from './pages/About'
 import Skills from './pages/Skills'
 import Expriences from './pages/Expriences'
